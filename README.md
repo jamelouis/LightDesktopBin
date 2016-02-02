@@ -5,6 +5,7 @@
   通过鼠标或者键盘来快捷的切换到相关的软件，文件夹或者文件。
 
   下图是一个阅读工作区实例图：
+  
   ![阅读工作区](img/reading-workspace.jpg "阅读工作区")
   
 ## 配置工作快捷键及相关文件
@@ -28,6 +29,7 @@ LightDesktopBin is a light desktop util for windows, which mantians a workspace 
 User can quickly switch to the software, folder, or file by mouse click or keybord.
 
 Take Reading Workspace for example:
+
   ![Reading Workspace](img/reading-workspace.jpg "Reading Workspace")
   
 ## Configuration
