@@ -25,8 +25,7 @@
 
 
 ## Introduction
-LightDesktopBin is a light desktop util for windows, which mantians a workspace of softwares, folders and files.
-User can quickly switch to the software, folder, or file by mouse click or keybord.
+Light Desktop is a light desktop util for windows, which maintains a work space of software, folders and files. User can quickly switch to the software, folder, or file by mouse click or keyboard.
 
 Take Reading Workspace for example:
 
